@@ -2,7 +2,7 @@
 
 > Demo for integrating nuxt-i18n
 
-<img src="./assets/image.png" width="500" />
+<img src="./assets/image.png" />
 
 ## Build Setup
 
