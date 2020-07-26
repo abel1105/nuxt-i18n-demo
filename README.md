@@ -20,3 +20,13 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
+## i18n
+
+source files are located inside **i18n/sources/lang_[lang].json** 
+
+Run the below command and than you can transform **Source** to **Shared** and **Modules** language files
+
+```bash
+yarn i18n
+```
